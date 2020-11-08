@@ -13,7 +13,7 @@ import (
 
 var (
 	mqttTopic   = "news"
-	mqttHostURL = "tcp://120.25.83.163:1883"
+	mqttHostURL = "tcp:/127.0.0.1:1883"
 	radHeadrLen = 8
 )
 
